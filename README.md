@@ -10,9 +10,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hardkoro&show_icons=true&include_all_commits=true" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardkoro" />
 </div>
+-->
