@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Evgeny
-## Python / SQL / Oracle PL/SQL / and much more
+#### Python / SQL / Oracle PL/SQL / and much more
 
 - 🔭 I’m currently working on travel datamap (Python + JS + SQL)
 - 🌱 I’m currently improving my Python skills and learning Docker
