@@ -1,4 +1,11 @@
-### 👋
+### 👋 Hi, I'm Evgeny
+## Python / SQL / Oracle PL/SQL / and much more
+
+- 🔭 I’m currently working on travel datamap (Python + JS + SQL)
+- 🌱 I’m currently improving my Python skills and learning Docker
+- 💬 Ask me about why are you need me
+- 📫 How to reach me: https://t.me/hardkoro
+- ⚡ Fun fact: drove from Moscow to Vladivostok (21 amazing days: Ural, Altai, Baikal, Pacific Ocean)
 
 <!--
 - 🔭 I’m currently working on ...
