@@ -2,7 +2,7 @@
 #### Python / Django / SQL / Oracle PL/SQL
 
 - 🔭 I’m currently working on travel datamap (Python + JS + SQL)
-- 🌱 I’m currently improving my Python skills & learning PostgreSQL Developer Course
+- 🌱 I’m currently improving my Python skills & learning PostgreSQL & Apache Airflow
 - 💬 I'm looking forward to achieve the goals of self-improvement while working on projects
 - 📫 How to reach me: https://t.me/hardkoro
 - ⚡ Fun fact: drove from Moscow to Vladivostok (21 amazing days: Ural, Altai, Baikal, Pacific Ocean)
