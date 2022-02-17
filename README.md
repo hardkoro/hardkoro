@@ -35,6 +35,8 @@
   ![Airflow](https://img.shields.io/badge/-Airflow-333333?style=flat&logo=ApacheAirflow&logoColor=FFFFFF)
   ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle&logoColor=F80000)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL&logoColor=FFFFFF)
+  ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=Heroku)
+  ![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=Nginx)
 
 ### Enviroment, IDEs and Tools
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=Visual-Studio-Code&logoColor=007ACC)
@@ -42,7 +44,6 @@
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman)
   ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows)
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
-  ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=Heroku)
 
 
 ## 📈 My GitHub Stats
