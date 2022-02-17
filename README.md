@@ -19,6 +19,7 @@
 ### Languages
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python&logoColor=3776AB)
   ![C#](https://img.shields.io/badge/-C%23-333333?style=flat-square&logo=CSharp&logoColor=239120)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=JavaScript)
   ![Delphi](https://img.shields.io/badge/-Delphi-333333?style=flat-square&logo=Delphi&logoColor=EE1F35)
   
 ### Libraries and Frameworks
@@ -41,6 +42,7 @@
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman)
   ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows)
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
+  ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=Heroku)
 
 
 ## 📈 My GitHub Stats
