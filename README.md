@@ -18,9 +18,11 @@
 
 ### Languages
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python&logoColor=3776AB)
+  ![Delphi](https://img.shields.io/badge/-Delphi-333333?style=flat-square&logo=Delphi&logoColor=EE1F35)
+     (with a bit of
   ![C#](https://img.shields.io/badge/-C%23-333333?style=flat-square&logo=CSharp&logoColor=239120)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=JavaScript)
-  ![Delphi](https://img.shields.io/badge/-Delphi-333333?style=flat-square&logo=Delphi&logoColor=EE1F35)
+  )
   
 ### Libraries and Frameworks
  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django&logoColor=FFFFFF)
