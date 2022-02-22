@@ -7,8 +7,8 @@
 
 ## About Me
 
-- 🔭 I’m currently working on travel datamap (Python + JS + SQL) & Microblog app on Flask
-- 🌱 I’m currently improving my Python skills & implementing Apache Airflow at production
+- 🔭 I’m currently working on implementing Apache Airflow at production & EDI integration
+- 🌱 I’m currently improving my Python skills (education via coding Flask Microblog app) & taking a MongoDB course
 - 💬 I'm looking forward to achieve the goals of self-improvement while working on projects
 - 📫 How to reach me: https://t.me/hardkoro
 - ⚡ Fact about me: drove from Moscow to Vladivostok (21 amazing days: Ural, Altai, Baikal, Pacific Ocean)
@@ -39,6 +39,7 @@
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL&logoColor=FFFFFF)
   ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=Heroku)
   ![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=Nginx)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
 
 ### Enviroment, IDEs and Tools
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=Visual-Studio-Code&logoColor=007ACC)
