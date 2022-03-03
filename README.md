@@ -7,10 +7,10 @@
 
 ## About Me
 
-- 🔭 I’m currently working on implementing Apache Airflow at production & EDI integration
-- 🌱 I’m currently improving my Python skills (education via coding Flask Microblog app) & taking a MongoDB course
-- 💬 I'm looking forward to achieve the goals of self-improvement while working on projects
-- 🗣 I speak Russian (native), English (C1), learning Finnish (A1) & remember some German (A1). I am ready to relocate
+- 🔭 Currently working on implementing Apache Airflow at production & EDI integration
+- 🌱 Currently improving my Python skills & taking a MongoDB course
+- 💬 Looking forward to achieving the goals of self-improvement while working on projects
+- 🗣 Speak Russian (native), English (C1), learning Finnish (A1) & remember some German (A1). Ready to relocate
 - 📫 How to reach me: https://t.me/hardkoro
 - ⚡ Fact about me: drove from Moscow to Vladivostok (21 amazing days: Ural, Altai, Baikal, Pacific Ocean)
 - 📝 Resume / CV: [RU](https://github.com/hardkoro/cv/blob/main/README.md) | [EN](https://github.com/hardkoro/cv/blob/main/README_EN.md)
