@@ -8,7 +8,7 @@
 ## About Me
 
 - 🔭 Currently working on implementing Apache Airflow at production & EDI integration
-- 🌱 Currently improving my Python skills & taking a MongoDB course
+- 🌱 Currently improving my Python skills & taking a JS course
 - 💬 Looking forward to achieving the goals of self-improvement while working on projects
 - 🗣 Speak Russian (native), English (C1), learning Finnish (A1) & remember some German (A1). Ready to relocate
 - 📫 How to reach me: https://t.me/hardkoro
