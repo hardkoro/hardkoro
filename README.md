@@ -14,7 +14,7 @@
 - 🗣 Speak Russian (native), English (C1), remember some German (A1), and learning Dutch
 - 📫 How to reach me: https://t.me/hardkoro
 - ⚡ Fact about me: drove from Moscow to Vladivostok (21 amazing days: Ural, Altai, Baikal, Pacific Ocean)
-- 📝 Resume / CV: [RU](https://github.com/hardkoro/cv/blob/main/README.md) | [EN](https://github.com/hardkoro/cv/blob/main/README_EN.md)
+- 📝 [Resume / CV](https://github.com/hardkoro/cv/blob/main/README_EN.md)
 
 ## Technology Stack
 
