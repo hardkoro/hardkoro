@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Evgeny
+## 👋 Hi, I'm Evgenii
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/hardkoro)
 [![Harb Badge](https://img.shields.io/badge/-Habr-303b44?style=flat-square&logo=Habr&logoColor=white)](https://career.habr.com/hardkoro)
@@ -8,7 +8,7 @@
 ## About Me
 
 <!-- - 🌱 Currently improving my Python skills & taking a JS course -->
-- 🔭 Currently working on implementing Apache Airflow at production & EDI integration
+- 🔭 Currently starting work at Picnic Technologies B.V. in beautiful Amsterdam
 - ❄ Currently learning Snowflake
 - 💬 Looking forward to achieving the goals of self-improvement while working on projects
 - 🗣 Speak Russian (native), English (C1), remember some German (A1), and learning Dutch
