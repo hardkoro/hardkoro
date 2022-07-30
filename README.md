@@ -10,7 +10,7 @@
 
 <!-- - 🌱 Currently improving my Python skills & taking a JS course -->
 - 🔭 Currently starting work at Picnic Technologies B.V. in beautiful Amsterdam
-- ❄ Currently learning Snowflake
+- ❄ Currently improving my knowledge in Async IO
 - 💬 Looking forward to achieving the goals of self-improvement while working on projects
 - 🗣 Speak Russian (native), English (C1), remember some German (A1), and learning Dutch
 - 📫 How to reach me: https://t.me/hardkoro
