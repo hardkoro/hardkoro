@@ -8,10 +8,9 @@
 
 ## About Me
 
-<!-- - 🌱 Currently improving my Python skills & taking a JS course -->
-- 🔭 Currently starting work at Picnic Technologies B.V. in beautiful Amsterdam
-- ❄ Currently improving my knowledge in Async IO
-- 💬 Looking forward to achieving the goals of self-improvement while working on projects
+- 🔭 Currently working as Python Engineer for Picnic Technologies B.V.
+- 🔀 Currently improving my knowledge in Async IO
+- 💬 Looking forward to self-improving while working on projects
 - 🗣 Speak Russian (native), English (C1), remember some German (A1), and learning Dutch
 - 📫 How to reach me: https://t.me/hardkoro
 - ⚡ Fact about me: drove from Moscow to Vladivostok (21 amazing days: Ural, Altai, Baikal, Pacific Ocean)
