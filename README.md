@@ -11,7 +11,7 @@
 - 🐍 Working as Python Engineer for Picnic Technologies B.V.
 - 🔀 Learning React and improving my software architecture expertise
 - 💬 Striving to self-develop while working
-- 🗣 Speak Russian (native), English (C1), learning Dutch (nog een beetje) & remember some German (A1)
+- 🗣 Speak 🇷🇺 (native), 🇬🇧 (C1), learning 🇳🇱 (nog een beetje) & remember some 🇩🇪 (A1)
 - 📫 How to reach me: https://t.me/hardkoro
 - ⚡ Fact about me: I can hear music even in the clatter of the keyboard
 - 📝 [Resume / CV](https://github.com/hardkoro/cv/blob/main/README.md)
@@ -21,6 +21,7 @@
 ### Languages
   Current:
       ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python&logoColor=3776AB)
+      ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat-square&logo=TypeScript&logoColor=3776AB)
   
   Previous:
       ![Delphi](https://img.shields.io/badge/-Delphi-333333?style=flat-square&logo=Delphi&logoColor=EE1F35)
@@ -47,6 +48,9 @@
       ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL&logoColor=FFFFFF)
       ![Snowflake](https://img.shields.io/badge/-Snowflake-333333?style=flat&logo=Snowflake)
       ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=RabbitMQ)
+      ![Spinnaker](https://img.shields.io/badge/-Spinnaker-333333?style=flat&logo=Spinnaker)
+      ![Sentry](https://img.shields.io/badge/-Sentry-333333?style=flat&logo=Sentry)
+      ![K8s](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=Kubernetes)
   
   Previous:
       ![Airflow](https://img.shields.io/badge/-Airflow-333333?style=flat&logo=ApacheAirflow&logoColor=FFFFFF)
@@ -60,6 +64,8 @@
       ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ+IDEA-333333?style=flat&logo=IntelliJ+IDEA)
       ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman)
       ![Apple](https://img.shields.io/badge/-Apple-333333?style=flat&logo=Apple)
+      ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=Jira)
+      ![Confluence](https://img.shields.io/badge/-Confluence-333333?style=flat&logo=Confluence)
   
   Previous:
       ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=Visual-Studio-Code&logoColor=007ACC)
