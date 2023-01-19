@@ -33,6 +33,7 @@
       ![Pytest](https://img.shields.io/badge/-Pytest-333333?style=flat&logo=Pytest)
       ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=FastAPI)
       ![Aiohttp](https://img.shields.io/badge/-Aiohttp-333333?style=flat&logo=Aiohttp)
+      ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
   
   Previous:
       ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django&logoColor=FFFFFF)
@@ -46,13 +47,13 @@
       ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=FFFFFF)
       ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED)
       ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL&logoColor=FFFFFF)
-      ![Snowflake](https://img.shields.io/badge/-Snowflake-333333?style=flat&logo=Snowflake)
       ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=RabbitMQ)
       ![Spinnaker](https://img.shields.io/badge/-Spinnaker-333333?style=flat&logo=Spinnaker)
       ![Sentry](https://img.shields.io/badge/-Sentry-333333?style=flat&logo=Sentry)
       ![K8s](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=Kubernetes)
   
   Previous:
+      ![Subversion](https://img.shields.io/badge/-Subversion-333333?style=flat&logo=Subversion&logoColor=F05032)
       ![Airflow](https://img.shields.io/badge/-Airflow-333333?style=flat&logo=ApacheAirflow&logoColor=FFFFFF)
       ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle&logoColor=F80000)
       ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=Heroku)
