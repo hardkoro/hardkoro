@@ -9,8 +9,7 @@
 ## About Me
 
 - 🐍 Working as Python Engineer for Picnic Technologies B.V.
-- 🔀 Learning React and improving my software architecture expertise
-- 💬 Striving to self-develop while working
+- 🧑‍💻 Develop through [software] development!
 - 🗣 Speak 🇷🇺 (native), 🇬🇧 (C1), learning 🇳🇱 (nog een beetje) & remember some 🇩🇪 (A1)
 - 📫 How to reach me: https://t.me/hardkoro
 - ⚡ Fact about me: I can hear music even in the clatter of the keyboard
@@ -50,6 +49,7 @@
       ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=RabbitMQ)
       ![Spinnaker](https://img.shields.io/badge/-Spinnaker-333333?style=flat&logo=Spinnaker)
       ![Sentry](https://img.shields.io/badge/-Sentry-333333?style=flat&logo=Sentry)
+      ![Vault](https://img.shields.io/badge/-Vault-333333?style=flat&logo=Vault)
       ![K8s](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=Kubernetes)
   
   Previous:
@@ -67,12 +67,14 @@
       ![Apple](https://img.shields.io/badge/-Apple-333333?style=flat&logo=Apple)
       ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=Jira)
       ![Confluence](https://img.shields.io/badge/-Confluence-333333?style=flat&logo=Confluence)
+      ![Slack](https://img.shields.io/badge/-Slack-333333?style=flat&logo=Slack)
   
   Previous:
       ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=Visual-Studio-Code&logoColor=007ACC)
       ![Visual Studio Community/Enterprise](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=Visual-Studio-Code&logoColor=7e10cc)
       ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows)
       ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
+      ![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-333333?style=flat&logo=Microsoft-Teams)
 
 
 ## 📈 My GitHub Stats
