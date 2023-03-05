@@ -4,6 +4,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/hardkoro)
 [![Gmail Badge](https://img.shields.io/badge/-GMail-d93025?style=flat-square&logo=GMail&logoColor=white)](mailto:eug.korobkov@gmail.com)
 [![Picnic Badge](https://img.shields.io/badge/-Picnic-E1171E?style=flat-square&logo=Picnic&logoColor=white)](https://picnic.tech/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)]([https://picnic.tech/](https://www.instagram.com/oligofriend))
 <!-- [![Habr Badge](https://img.shields.io/badge/-Habr-303b44?style=flat-square&logo=Habr&logoColor=white)](https://career.habr.com/hardkoro) -->
 
 ## About Me
