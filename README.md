@@ -75,7 +75,6 @@
       ![Visual Studio Community/Enterprise](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=Visual-Studio-Code&logoColor=7e10cc)
       ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows)
       ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
-      ![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-333333?style=flat&logo=Microsoft-Teams)
 
 
 ## 📈 My GitHub Stats
