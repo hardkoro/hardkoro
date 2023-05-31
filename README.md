@@ -80,6 +80,6 @@
 ## 📈 My GitHub Stats
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hardkoro&show_icons=true&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hardkoro&show_icons=true&hide_border=true&count_private=true&hide_rank=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardkoro&show_icons=true&hide_border=true&layout=compact"/>
 </p>
