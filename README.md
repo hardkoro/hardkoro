@@ -76,10 +76,11 @@
       ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows)
       ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
 
-
+<!-- 
 ## 📈 My GitHub Stats
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hardkoro&show_icons=true&hide_border=true&count_private=true&hide_rank=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardkoro&show_icons=true&hide_border=true&layout=compact"/>
 </p>
+-->
