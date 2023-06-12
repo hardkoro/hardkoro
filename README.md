@@ -39,7 +39,6 @@
       ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django&logoColor=FFFFFF)
       ![DRF](https://img.shields.io/badge/-DRF-333333?style=flat&logo=Django&logoColor=FFFFFF)
       ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=Flask&logoColor=FFFFFF)
-      ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-333333?style=flat&logo=ElasticSearch)
    
 ### Infrastructure and DevOps
   Current:
