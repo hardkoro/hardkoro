@@ -51,6 +51,7 @@
       ![Sentry](https://img.shields.io/badge/-Sentry-333333?style=flat&logo=Sentry)
       ![Vault](https://img.shields.io/badge/-Vault-333333?style=flat&logo=Vault)
       ![K8s](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=Kubernetes)
+      ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=Terraform)
   
   Previous:
       ![Subversion](https://img.shields.io/badge/-Subversion-333333?style=flat&logo=Subversion&logoColor=F05032)
@@ -74,6 +75,7 @@
       ![Visual Studio Community/Enterprise](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=Visual-Studio-Code&logoColor=7e10cc)
       ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows)
       ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
+      ![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-333333?style=flat&logo=Microsoft-Teams)
 
 <!-- 
 ## 📈 My GitHub Stats
