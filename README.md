@@ -10,7 +10,7 @@
 ## About Me
 
 - 🐍 Working as Python Engineer for [Picnic Technologies B.V.](https://github.com/PicnicSupermarket)
-- 🧑‍💻 Develop through [software] development!
+- 🧑‍💻 evolve through development!
 - 🗣 Speak 🇷🇺 (native), 🇬🇧 (C1), learning 🇳🇱 (nog een beetje) & remember some 🇩🇪 (A1)
 - 📫 How to reach me: https://t.me/hardkoro
 - ⚡ Fact about me: I can hear music even in the clatter of a keyboard
