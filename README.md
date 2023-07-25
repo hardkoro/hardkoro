@@ -52,6 +52,7 @@
       ![Vault](https://img.shields.io/badge/-Vault-333333?style=flat&logo=Vault)
       ![K8s](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=Kubernetes)
       ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=Terraform)
+      ![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=Grafana)
   
   Previous:
       ![Subversion](https://img.shields.io/badge/-Subversion-333333?style=flat&logo=Subversion&logoColor=F05032)
