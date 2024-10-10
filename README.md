@@ -17,7 +17,7 @@ tell_python_joke()
 ```
 
 - 🐍 Working as Python Engineer for [Picnic Technologies B.V.](https://github.com/PicnicSupermarket)
-- 🗣 Speak 🇷🇺 (native), 🇬🇧 (C1), learning 🇳🇱 (A1) & remember some 🇩🇪 (A1)
+- 🗣 Speak 🇷🇺 (native), 🇬🇧 (C1), learning 🇳🇱 (A2) & remember some 🇩🇪 (A1)
 - 📫 How to reach me: https://t.me/hardkoro
 - ⚡ Fact about me: I can hear music even in the clatter of a keyboard
 - 📝 [Resume / CV](https://github.com/hardkoro/cv/blob/main/README.md)
